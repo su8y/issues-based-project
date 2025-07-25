@@ -1,0 +1,41 @@
+/*
+ * # [Su8y] Software License Agreement
+ *
+ * Copyright (c) 2025 Bae Sua <bsa0530@gmail.com> (su8y) All Rights Reserved.
+ *
+ * ---
+ *
+ * ### **Summary**
+ *
+ * This software is a proprietary asset with all rights reserved by the copyright holder, Bae Sua. You may not disclose, distribute, reproduce, modify, or create derivative works from this software, in whole or in part, under any circumstances without the express written permission of the copyright holder.
+ *
+ * ---
+ *
+ * ### **Restrictions**
+ *
+ * 1.  **Confidentiality:**
+ * * All source code, documentation, and ideas related to this software must be treated as confidential information.
+ * * Authorized users (e.g., team members) shall not disclose this information to any third party.
+ *
+ * 2.  **No Distribution or Reproduction:**
+ * * You may not reproduce, distribute, transmit, or disclose any part of this software in any form to any third party without the prior written consent of the copyright holder.
+ *
+ * 3.  **Limited Use:**
+ * * This software may only be used for the internal development and testing purposes of the copyright holder (Bae Sua).
+ * * Use in any other commercial or personal projects is prohibited.
+ *
+ * 4.  **No Modification or Derivative Works:**
+ * * You are prohibited from modifying the code of this software or creating new software based upon it (derivative works).
+ *
+ * 5.  **Ownership of Contributions:**
+ * * Any and all contributions (e.g., commits, pull requests) of code, documentation, or other works to this software repository shall be irrevocably assigned to and owned by the copyright holder (Bae Sua), including all right, title, and interest therein.
+ *
+ * ### **Governing Law and Jurisdiction**
+ *
+ * This Agreement shall be governed by and construed in accordance with the laws of the Republic of Korea. The Seoul Central District Court shall have exclusive jurisdiction over any disputes arising out of or in connection with this Agreement.
+ *
+ * ### **Disclaimer of Warranty**
+ *
+ * THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+ *
+ */
