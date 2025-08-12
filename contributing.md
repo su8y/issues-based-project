@@ -37,6 +37,12 @@ Docs
 Question
 - 사용 방법, 설계 의도에 대한 질문
 
+### Issue에 대한 합의 
+작업의 중복을 방지하기 위한 Issue 할당 규칙을 정의합니다.
+- Issue는 maintainer가 assignee를 지정하거나
+- 기여자가 "I’d like to work on this" 라고 코멘트 후 승인받아 진행합니다.
+- 승인 없이 진행한 PR은 반려될 수 있습니다.
+
 ## 코드 리뷰 정책(Code Review Policy)
 - 모든 PR은 최소 1명 이상의 리뷰 승인이 필요합니다.
 - 리뷰 코멘트는 논리적 근거 방식으로 작성해주세요.
