@@ -4,6 +4,12 @@
 
 모든 기여는 Issues -> Pull Requests(PR) -> 흐름을 따르는 것을 원칙으로 합니다.
 
+각 관계에서는 아래와 같은 의존성 그래프를 따릅니다.
+Issues(1) - PR(N)
+- 한개의 Issue는 N개의 PR을 가질수 있습니다.
+PR(1) - Commit(N)
+- 한개의 PR은 N개의 Commit을 가질수 있습니다.
+
 ## 기여 방식 개요 
 1. Issue 확인 또는 생성
 2. Issue에 대한 합의(Assignee / Discussion)
