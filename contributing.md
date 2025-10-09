@@ -77,3 +77,9 @@ TO-BE UPDATE
 ## Merge 정책(Merge Policy)
 - Squash Merge를 기본으로 합니다
 - Merge는 maintainer만 수행합니다.
+
+## 예외 정책
+다음 상황에서는 코딩 규칙을 일부 완화할 수 있다.
+- 장애 대응을 위한 Hotfix
+- 레거시 코드의 부분 수정
+- 실험적 기능 (Issue에 명시된 경우)
