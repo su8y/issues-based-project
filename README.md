@@ -19,6 +19,7 @@
 - 릴리즈 단위 관리의 어려움
 
 ## 왜 Github-Issue 기반인 것인가 ?
+[장단점 정리](why-issue-based.md)   
 Issue는 단순한 할 일(To-do)이 아니라, 왜 이 작업이 필요한지에 대한 **공식 기록(Single Source of Truth)** 이다.
 
 Issue에는 다음과 같은 정보가 포함된다:
